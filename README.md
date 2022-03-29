@@ -1,2 +1,2 @@
-# NBA Data Analysis Project
- Exploratory Data Analysis and Model Built for ML
+# NBA Three-Point Shooting Data Analysis Project
+This data analytics project looks at the evolution of the 3 point shot throughout NBA history. The motivation for this analysis was my passion for the sport and to see if the introduction of a playstyle focused on high volume three-point shooting has impacted the chance of winning for franchises within the association. Furthermore, there is an extension analysis looking at the current trend setters for this “3-point revolution”. Taking insights from this analysis, I was able to split the historical dataset into 3 key eras for the evolution of the 3-point shot. This dataset trained a RandomTreeClassifier ML model to predict the increase in win chance which was about 23% over the era spanning from 2003-2006 compared to the new generation of the association.
